@@ -15,3 +15,23 @@ The table of vocabulary should only have the following coloums: English, Hausa, 
 
 Student input:
 Bears are at the door, did you leave the garbage out?
+
+
+
+Let's learn Hausa together!
+Vocabulary Table
+English	Hausa	Latin
+Bear	Rini	Ursus
+Door	Kofa	Ostium
+Garbage	Gudawa	Stercus
+Leave	Bar	Abandonare
+Outside	Waje	Foris
+Possible Sentence Structure
+Verb-Subject-Object (VSO) word order is common in Hausa. Consider using a question word (e.g., ko) to form a question.
+Clues to Get You Started
+Start with the verb "are" in the present tense. What is the Hausa equivalent?
+Identify the subject "bears" and determine the correct particle to use.
+Translate "at the door" using the vocabulary table.
+Form a question using the verb "leave" in the past tense.
+Incorporate "garbage" and "outside" into your sentence.
+Now it's your turn! Try to translate the sentence into Hausa using the vocabulary table and clues.
