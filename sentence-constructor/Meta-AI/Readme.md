@@ -1,0 +1,3 @@
+## The goal of the project is to provide teaching assistance or guidance to students who want to learn to speak the Hausa Language. And we will rework our prompts from AI-Powered Assistance to another . Try to also descover what AI prompts techniques we can descover when working in the confines of an AI-Assistant. 
+
+### Meta Ai is based on Llama 3, a large language model developed by Meta. It is not a single model, but rather a distilled version of Llama 3, which is a more compact and efficient model that's been fine-tuned for conversational tasks. Its parameter count is approximately 70 billion parameters.
